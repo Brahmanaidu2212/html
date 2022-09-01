@@ -15,3 +15,6 @@ hi=int(input("enter the value"))
 net=gross-deductors
 print("code\t name\t des\t com\t salary\t net-salary")
 print("code,'\t',name,'\t', desg,'\t',comp,'\t',net salary")
+
+#brahmanaidu
+#musko
