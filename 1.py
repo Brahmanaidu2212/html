@@ -7,6 +7,6 @@ da=flot("salary + 4%")
 hra=flot("salary + 5%")
 gross=salary+ta+da+hra
 print("totl salary")
-
-
-
+a=5
+b=6
+print(a+b)
